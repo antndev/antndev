@@ -1,3 +1,4 @@
+# Welcome 👋
 ## I am a student in Germany with a hobby for coding.
 
 - I’m currently learning **Rust**
