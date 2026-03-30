@@ -1,9 +1,6 @@
 # Welcome 👋
-## I am a student in Germany with a hobby for coding.
 
-- I’m currently learning **Rust**
-
-- My website [antn.dev](https://antn.dev)
+## I am a student from Germany with a hobby for coding.
 
 - Reach me via discord **antndev**
 
